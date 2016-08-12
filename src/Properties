@@ -1,0 +1,13 @@
+#URL of aplication
+
+URL = http://www.gmail.com
+
+#Xls File 
+path = src//TetsData.xls
+SheetName=Login details
+
+#Login Details
+
+username=devanshi.shah@clarionetchnologies.co.in
+password=Devhah@2105
+
